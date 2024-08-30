@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../Javascript Projects"
+		},
+		{
+			"path": "../../../../Javascript Basic Problems"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Part 2"
+	}
+}
